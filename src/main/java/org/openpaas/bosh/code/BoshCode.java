@@ -1,4 +1,4 @@
-package org.openpaas.paasta.bosh.code;
+package org.openpaas.bosh.code;
 
 public class BoshCode {
     public static String INSTANCE_STATE_START = "started";

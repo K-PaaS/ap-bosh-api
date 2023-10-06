@@ -1,4 +1,4 @@
-package org.openpaas.paasta.bosh;
+package org.openpaas.bosh;
 
 import org.springframework.boot.SpringApplication;
 

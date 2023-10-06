@@ -1,9 +1,9 @@
-package org.openpaas.paasta.bosh.director;
+package org.openpaas.bosh.director;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.openpaas.paasta.bosh.code.BoshCode;
-import org.openpaas.paasta.bosh.util.SSLUtils;
+import org.openpaas.bosh.code.BoshCode;
+import org.openpaas.bosh.util.SSLUtils;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
