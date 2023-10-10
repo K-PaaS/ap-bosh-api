@@ -1,4 +1,4 @@
-package org.openpaas.paasta.bosh.util;
+package org.openpaas.bosh.util;
 
 import javax.net.ssl.*;
 import java.security.KeyManagementException;
